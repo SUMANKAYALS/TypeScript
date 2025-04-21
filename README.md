@@ -32,9 +32,10 @@ Whether it's basic types or advanced generics — you'll find a variety of conce
 ├── 05-projects/        # Mini projects to apply learning
 └── README.md           # You're here!
 
-
+---
 ## 🧠 Learning Resource
 Want to learn TypeScript from scratch with real examples?
 Check out this amazing free full course on YouTube:
 
 📺 TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours+
+URL :- https://www.youtube.com/@freecodecamp
