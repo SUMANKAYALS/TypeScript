@@ -26,7 +26,7 @@ Want to learn TypeScript from scratch with real examples?
 Check out this amazing free full course on YouTube:
 
 📺 TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours+
-URL :- https://www.youtube.com/@freecodecamp
+URL :- [https://www.youtube.com/@freecodecamp](https://youtu.be/30LWjhZzg50?si=fIBzbEI4e8SWZfys)
 
 ---
 
